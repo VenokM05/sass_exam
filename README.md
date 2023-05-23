@@ -1,4 +1,3 @@
-# sass_exam
 # Coding Challenge - Frontend SASS
 
 ## Goal
